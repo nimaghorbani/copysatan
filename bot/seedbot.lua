@@ -218,13 +218,14 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all"
+    "all",
+    "helprealm"
     },
     sudo_users = {94704012},--Sudo users
     disabled_channels = {},
     realm = {53167206},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V3.0
+    about_text = [[W_SaTaN_W V3.5
 
 Admins
 @WilSoN_DeVeLoPeR
@@ -333,7 +334,7 @@ will return group ban list
 
 !satan
 about bot.
-**U can use both "/" and "!" 
+**U can use: "!" , "/" , "&" , "$". 
 
 
 *Only owner and mods can add bots in group
