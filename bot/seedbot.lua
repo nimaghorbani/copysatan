@@ -344,6 +344,7 @@ about bot.
 
 *Only owner can use res,setowner,promote,demote and log commands
 
+Creator: @WilSoN_DeVeLoPeR
 ]]
 
   }
