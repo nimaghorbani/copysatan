@@ -224,15 +224,15 @@ function create_config( )
     },
     sudo_users = {132921618},--Sudo users
     disabled_channels = {},
-    realm = {86547160},--Realms Id
+    realm = {63974337},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[GhBot V 2.2
     
 Admins
 @Mr_Ghor
 
-Special thanks to
-@WilSoN_DeVeLoPeR
+Programmer 
+@WilSoN_DeVeLoPeR & @HaWkerGh
 ]],
     help_text = [[
 Commands list :
@@ -330,7 +330,7 @@ will return group logs
 !banlist
 will return group ban list
 
-!satan
+!ghbot
 about bot.
 **U can use: "!" , "/" , "&" , "$". 
 
