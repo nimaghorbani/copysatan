@@ -16,7 +16,7 @@ function on_msg_receive (msg)
   print (receiver)
 
   -- vardump(msg)
-  --@wilson_developer
+  --@Mr_Ghor
   msg = pre_process_service_msg(msg)
   if msg_valid(msg) then
     msg = pre_process_msg(msg)
@@ -224,15 +224,15 @@ function create_config( )
     },
     sudo_users = {132921618},--Sudo users
     disabled_channels = {},
-    realm = {86547160},--Realms Id
+    realm = {63974337},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V3.5
+    about_text = [[GhBot V 2.2
 
 Admins
 @HaWkerGh
 
-Special thanks to
-@WilSoN_DeVeLoPeR
+Programmer 
+@WilSoN_DeVeLoPeR & @HaWkerGh
 ]],
     help_text = [[
 Commands list :
