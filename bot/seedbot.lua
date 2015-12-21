@@ -16,6 +16,7 @@ function on_msg_receive (msg)
   print (receiver)
 
   -- vardump(msg)
+  --@wilson_developer
   msg = pre_process_service_msg(msg)
   if msg_valid(msg) then
     msg = pre_process_msg(msg)
@@ -344,6 +345,7 @@ about bot.
 
 *Only owner can use res,setowner,promote,demote and log commands
 
+Creator: @WilSoN_DeVeLoPeR
 ]]
 
   }
