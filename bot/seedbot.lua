@@ -222,9 +222,9 @@ function create_config( )
     "all",
     "helprealm"
     },
-    sudo_users = {132921618},--Sudo users
+    sudo_users = {164162588},--Sudo users
     disabled_channels = {},
-    realm = {63974337},--Realms Id
+    realm = {96931910},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[GhBot V 2.2
     
@@ -240,7 +240,7 @@ Commands list :
 !kick [username|id]
 You can also do it by reply
 
-!ban [ username|id]
+!ban [username|id]
 You can also do it by reply
 
 !unban [id]
@@ -342,7 +342,7 @@ about bot.
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-Creator: @WilSoN_DeVeLoPeR
+Creator: @Mr_Ghor
 ]]
 
   }
