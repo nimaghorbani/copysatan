@@ -222,20 +222,17 @@ function create_config( )
     "all",
     "helprealm"
     },
-    sudo_users = {94704012},--Sudo users
+    sudo_users = {132921618},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {86547160},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V3.5
-
+    about_text = [[GhBot V 2.2
+    
 Admins
-@WilSoN_DeVeLoPeR
+@Mr_Ghor
 
 Special thanks to
-@Dawsh_Alfred
-
-our channel
-@W_SaTaN_w_chnnl
+@WilSoN_DeVeLoPeR
 ]],
     help_text = [[
 Commands list :
